@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "10306892813",
+    "project_id": "buildna-a17dc",
+    "storage_bucket": "buildna-a17dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10306892813:android:7e0da0ad3654b53de8d144",
+        "android_client_info": {
+          "package_name": "com.buildna.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9h0qDXBdJnFI3arW-dr4uuj0LhUazK0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10306892813:android:bced98cf0592d9afe8d144",
+        "android_client_info": {
+          "package_name": "com.example.buildna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9h0qDXBdJnFI3arW-dr4uuj0LhUazK0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10306892813:android:69ca517a5b6a6a0ee8d144",
+        "android_client_info": {
+          "package_name": "com.example.uneversty_bildna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9h0qDXBdJnFI3arW-dr4uuj0LhUazK0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
